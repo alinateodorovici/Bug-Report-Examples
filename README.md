@@ -65,7 +65,39 @@ The user should be able to login and be taken to his profile page in a short tim
 **Test Data:**
 user: alina pass: 12345
 
+--------
 
+**ID** 12347
+
+**Status:** Open
+
+**Priority:** P1
+
+**Severity:** S1
+
+**Summary:** User is not receveing email with changing password link.
+
+**Description:**
+After clicking on "Forgot password" and an email adress is added, user is not receveing email with changing password link.
+
+**Assignee:** Developer
+
+**Steps to reproduce:**
+1. Go to wwww.website.com/login
+2. Click on "Forgot password" 
+3. Add email adress
+4. Click send
+
+**Expected result:**
+User should receive an email with change password link.
+
+**Actual result:**
+User is not receveing email with link to change password.
+ 
+**Test Data:**
+user:- pass: -
+
+-----------
 
 
 
