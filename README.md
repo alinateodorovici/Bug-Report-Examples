@@ -1,3 +1,4 @@
+Here are some bug reports examples that I wrote, using a demo website: https://www.saucedemo.com/
 
 # Bug-Report-Examples 
 
@@ -34,7 +35,6 @@ Value is erased from the field.
 user: alina pass: 12345
 
 -------
-
 
 **ID** 2
 
